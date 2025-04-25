@@ -2,4 +2,9 @@ body{
     
     width: 30%;
     border: 2px solid green;
+    padding: 15px;
+}
+button{
+    width: 100%;
+    background-color: green;
 }
